@@ -1,6 +1,9 @@
 # magicball
 
 A new Flutter application.
+# screenshot
+![Screenshot (31)](https://user-images.githubusercontent.com/68682390/90164421-fe636500-ddb4-11ea-8ded-97618317abb2.png)
+
 
 ## Getting Started
 
